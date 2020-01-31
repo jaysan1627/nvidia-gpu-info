@@ -1,2 +1,2 @@
 # nvidia-gpu-info
-Get GPU information sample
+Simple sample of how you can get NVIDIA GPU information using their API calls.
